@@ -72,5 +72,11 @@ ul li a:hover{
 
 .ul li p:hover{
     background-color: #ff7200;
-    
+
+}
+
+.ul li{
+    list-style: none;
+    margin-left: 60px;
+    font-size: 16px;
 }
